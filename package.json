@@ -1,0 +1,11 @@
+{
+  "name": "parcial1_android",
+  "version": "1.0.0",
+  "description": "Parcial 1 RedReader",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Adriana Bonilla / Leonardo Valbuena",
+  "license": "ISC"
+}
